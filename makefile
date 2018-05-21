@@ -3,8 +3,8 @@ CFLAGS= -g
 LDFLAGS= -lm
 CC= gcc
 
-run :all
-	./mdl test.mdl
+run: all
+	./mdl robot.mdl
 
 all: parser
 
