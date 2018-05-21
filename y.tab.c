@@ -186,7 +186,7 @@ typedef union YYSTYPE
 {
   double val;
   char string[255];
- }
+}
 /* Line 193 of yacc.c.  */
 #line 192 "y.tab.c"
 	YYSTYPE;
@@ -2630,4 +2630,3 @@ int main(int argc, char **argv) {
 
   return 0;
 }
-

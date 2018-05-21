@@ -122,7 +122,7 @@ typedef union YYSTYPE
 {
   double val;
   char string[255];
- }
+}
 /* Line 1529 of yacc.c.  */
 #line 128 "y.tab.h"
 	YYSTYPE;
